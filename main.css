@@ -1,0 +1,17 @@
+body {
+  background-color: light blues;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+body {
+  background-image: images("background.gif");
+  background-repeat: repeat-x;
+}
